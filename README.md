@@ -1,1 +1,1 @@
-I like building things from scratch and figuring out how they work along the way. CPUs, FPGAs, embedded systems, AI and aerospace are currently keeping me busy
+I’m a young engineer and builder fascinated by how things work, from the transistor level all the way up to autonomous systems. I build projects across FPGA, embedded systems, custom CPUs, AI and aerospace, always trying to learn something new along the way. Currently working on an aerodynamically optimised UAV featuring a custom neural network and a range of embedded systems.
