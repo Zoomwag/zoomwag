@@ -1,21 +1,23 @@
 # Hi, I'm Jonathan
 
-**Engineer · Builder · Tinkerer**
+**Engineer · Builder · Rower · Tinkerer**
 
-I’m a young engineer and builder fascinated by how things work, from the **transistor level** all the way up to **autonomous systems**.
+I’m someone who loves figuring out how things work and then trying to build them myself. I’m interested in everything from **FPGA and custom CPUs** to **AI, electronics, and aerospace**.
 
-I build projects across **FPGA**, **embedded systems**, **custom CPUs**, **AI**, and **aerospace**, always trying to learn something new along the way.
+I also row, and I enjoy combining my interests — which is why I’m building my own **on-water rowing computer** alongside my other projects.
 
 ## Currently Building
 
-An **aerodynamically optimised UAV** featuring a **custom neural network** and a range of embedded systems, bringing together my interests in **aerospace, AI, electronics, and autonomous systems**.
+**Vantis X** — a personal project exploring **FPGA, custom hardware, AI, and autonomous systems**.
+
+**On-Water Rowing Computer** — a custom device using **GPS, sensors, and embedded electronics** to bring better data to rowers.
 
 ## Interests
 
 * FPGA & Digital Logic
-* Embedded Systems
+* Embedded Systems & Electronics
 * Custom CPUs & Computer Architecture
 * AI & Neural Networks
 * Aerospace & UAVs
-* Electronics & Hardware
-* Building Systems From Scratch
+* Rowing & Sports Technology
+* Building Things From Scratch
