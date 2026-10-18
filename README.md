@@ -8,7 +8,7 @@ I also row, and I enjoy combining my interests — which is why I’m building m
 
 ## Currently Building
 
-**Vantis X** — a personal project exploring **FPGA, custom hardware, AI, and autonomous systems**.
+
 
 **On-Water Rowing Computer** — a custom device using **GPS, sensors, and embedded electronics** to bring better data to rowers.
 
